@@ -1,9 +1,17 @@
+<h2 align="center">👋 Hello! I'm Aqsa.</h2>
+<p align="center">
+  <a href="https://blog.athulcyriac.in">Blog</a> •
+  <a href="https://twitter.com/athulcajay">Twitter</a>
+</p>
 
-- 🔭 &nbsp;I’m currently working on something cool :wink:
-- 🌱 &nbsp;I’m currently learning Flutter, Go
-- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
-- 👨‍💻 &nbsp;Read more about my projects at [gautamkrishnar.com](https://www.gautamkrishnar.com/#portfolio)
-- ⚡ &nbsp;Fun fact: I :heart: :dog:s and Xbox Gaming (GamerTag: [GKRXtreme](https://account.xbox.com/en-us/profile?gamertag=GKRXtreme))
+
+- 🔭 I’m a computer science undergard in my final year.
+- 🌱 I’m currently learning more on Observability and better DevOps Practices
+- 💬 Ask me about **Go, Git and Python**
+- 📫 How to reach me: [@athulcajay](https://twitter.com/athulcajay) on Twitter
+- ⚡ Fun fact: Big Fan of the :zap: emoji
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aqsa-hussain-380729213) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@medium.com/@aqsahussain214_90367) 
 
