@@ -8,7 +8,6 @@
 - 🔭 I’m a computer science undergard in my final year.
 - 🌱 I’m currently learning looking for a full-time job.
 - 💬 Ask me about **.NET6 MVC, REACT and Python**
-- 📫 How to reach me: aqsahussain214@gmail.com
 - ⚡ Fun fact: Big Fan of the :zap: emoji
 
 
