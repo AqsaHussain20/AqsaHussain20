@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aqsa Hussain</h1>
 <h3 align="center">A passionate Full-Stack and AI developer.</h3>
 
-- 📝 I regularly write articles on [@aqsahussain214_90367](@aqsahussain214_90367)
-
 - 📫 How to reach me **aqsahussain214@gmail.com**
 
 - ⚡ Fun fact **I am a Learning freak!**
