@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqsa Hussain</h1>
-<h3 align="center">A passionate Full-Stack Stack</h3>
+<h3 align="center">A passionate Full-Stack Developer</h3>
 
 - 📫 How to reach me **aqsahussain214@gmail.com**
 
