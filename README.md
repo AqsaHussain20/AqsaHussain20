@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aqsa Hussain</h1>
-<h3 align="center">Backend Software Engineer · .NET · Python · AWS · Distributed Systems</h3>
+<h3 align="center">Backend Software Engineer · .NET · Python · AWS · Distributed Systems · Docker</h3>
 
 <p align="center">
   📍 Islamabad, Pakistan &nbsp;|&nbsp;
@@ -13,7 +13,7 @@
   <a href="https://linkedin.com/in/[aqsahsain]" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
-  <a href="https://github.com/[your-github]" target="_blank">
+  <a href="https://github.com/[AqsaHussain20]" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
   </a>
 </p>
@@ -23,7 +23,7 @@
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
-  <strong>[Bachelor's]</strong> — [Computer Science]<br/>
+  <strong>[Bachelor's]</strong> — [Computer Science] - [CGPA : 3.45]<br/>
 </p>
 
 ---
@@ -38,26 +38,13 @@
 
 ---
 
-<h3 align="center">🛠️ Languages & Tools</h3>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" title="C#"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" height="40" title=".NET"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" title="Python"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" title="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_sql_server/microsoft_sql_server-ar21.svg" height="40" title="SQL Server"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" height="40" title="PostgreSQL"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="40" title="Git"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" height="40" title="Docker"/>
-</p>
-
----
 
 <h3 align="center">🏅 Certifications</h3>
 
 <p align="center">
-  🏆 <strong>[AWS Certification Name]</strong> — Amazon Web Services · [Year]<br/>
-  🏆 <strong>[Certification Name]</strong> — [Issuer] · [Year]
+  🏆 <strong>[AWS Solutions Architect Associate]</strong> — Amazon Web Services · [2026]<br/>
+  🏆 <strong>[Fundamentals of Backend Engineering ]</strong> — [Hussein Naseer] · [2026] <br/>
+  🏆 <strong>[Fundamentals of Database Engineering ]</strong> — [Hussein Naseer] · [2026]
 </p>
 
 ---
@@ -74,15 +61,20 @@
 <br/>
 
 <p align="center">
-  <strong>[Project Name]</strong><br/>
-  [Brief description of what it does and the tech used.]
+  <strong>[Spam Detection and Lead Management System]</strong><br/>
+  [Collaborated on an enterprise grade multi-tenant spam detection and lead routing system that reduced invalid spam leads by
+70%. Implemented event driven architecture using MassTransit and SQL Server as the message broker with blazor for the UI.
+Wrote custom middleware for payload validation, implemented minimal api’s, designed database schema, validated leads against
+pre-defined rules and delivered leads to third party CRMs. ]
 </p>
 
 <br/>
 
 <p align="center">
-  <strong>[Project Name]</strong><br/>
-  [Brief description of what it does and the tech used.]
+  <strong>[Image SiteMap for enterprise Clients]</strong><br/>
+  [Played a key role in the ImageSitemap feature project for a major client, levereged Worker Services, Mediator Pattern and
+Microsoft Orleans to generate scalable sitemaps for websites covering 100+ locations, and integrated .NET Aspire for real‑time
+monitoring to enhance system resilience and operational efficiency.]
 </p>
 
 ---
@@ -102,7 +94,5 @@
 
 <p align="center">
   🧠 <strong>System Design</strong> — working through real-world case studies<br/>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(TinyURL, Booking.com, IoT monitoring, distributed messaging systems)<br/><br/>
-  🗣️ <strong>Turkish</strong> — picking up the basics of a new language<br/><br/>
-  📖 <strong>[Learning area]</strong> — [brief note]
+  📖 <strong>[Backend Engineering]</strong> — [Currently, deep in Designing Data-Intensive Applications by Martin Kleppmann]
 </p>
