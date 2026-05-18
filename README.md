@@ -8,18 +8,6 @@
 
 ---
 
-<h3 align="center">🌐 Connect with me</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/aqsahsain" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-  </a>
-  <a href="https://github.com/AqsaHussain20" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
-  </a>
-</p>
-
----
-
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
@@ -63,7 +51,7 @@
 <p align="center">
   <strong> Spam Detection and Lead Management System </strong><br/>
   Collaborated on an enterprise grade multi-tenant spam detection and lead routing system that reduced invalid spam leads by
-70%. Implemented event driven architecture using MassTransit and SQL Server as the message broker with blazor for the UI.
+70%. Implemented event driven architecture using MassTransit and SQL Server as the message broker with blazor for the UI.<br/>
 Wrote custom middleware for payload validation, implemented minimal api’s, designed database schema, validated leads against
 pre-defined rules and delivered leads to third party CRMs. 
 </p>
@@ -96,3 +84,17 @@ monitoring to enhance system resilience and operational efficiency.
   🧠 <strong>System Design</strong> — working through real-world case studies<br/>
   📖 <strong>[Backend Engineering]</strong> — [Currently, deep in Designing Data-Intensive Applications by Martin Kleppmann]
 </p>
+
+---
+
+<h3 align="center">🌐 Connect with me</h3>
+<p align="center">
+  <a href="https://linkedin.com/in/aqsahsain" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+  <a href="https://github.com/AqsaHussain20" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" height="30" width="40"/>
+  </a>
+</p>
+
+---
