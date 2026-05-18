@@ -1,16 +1,16 @@
-<h1 align="center">Hi 👋, I'm Abdullah Daniyal</h1>
-<h3 align="center">Backend Software Engineer · .NET · AWS · Distributed Systems</h3>
+<h1 align="center">Hi 👋, I'm Aqsa Hussain</h1>
+<h3 align="center">Backend Software Engineer · .NET · Python · AWS · Distributed Systems</h3>
 
 <p align="center">
-  📍 Rawalpindi, Pakistan &nbsp;|&nbsp;
-  📫 Reach me at: <strong>[your email]</strong>
+  📍 Islamabad, Pakistan &nbsp;|&nbsp;
+  📫 Reach me at: <strong>[aqsahussain.202@gmail.com]</strong>
 </p>
 
 ---
 
 <h3 align="center">🌐 Connect with me</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/[your-linkedin]" target="_blank">
+  <a href="https://linkedin.com/in/[aqsahsain]" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
   <a href="https://github.com/[your-github]" target="_blank">
@@ -23,8 +23,7 @@
 <h3 align="center">🎓 Education</h3>
 
 <p align="center">
-  <strong>[Degree Name]</strong> — [Major / Field of Study]<br/>
-  [University Name] &nbsp;·&nbsp; [Graduation Year]
+  <strong>[Bachelor's]</strong> — [Computer Science]<br/>
 </p>
 
 ---
